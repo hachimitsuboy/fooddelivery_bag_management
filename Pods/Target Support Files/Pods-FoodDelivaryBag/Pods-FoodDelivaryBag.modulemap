@@ -1,0 +1,6 @@
+framework module Pods_FoodDelivaryBag {
+  umbrella header "Pods-FoodDelivaryBag-umbrella.h"
+
+  export *
+  module * { export * }
+}

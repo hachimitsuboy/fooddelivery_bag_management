@@ -1,0 +1,24 @@
+PODS:
+  - lottie-ios (3.2.1)
+  - NendSDK_iOS (7.0.5)
+  - SegementSlide (3.0.1)
+
+DEPENDENCIES:
+  - lottie-ios
+  - NendSDK_iOS
+  - SegementSlide
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - NendSDK_iOS
+    - SegementSlide
+
+SPEC CHECKSUMS:
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+  NendSDK_iOS: 99add67e75cffcdfa6e991e24df5d8f027088c5b
+  SegementSlide: 83b56ffb66b9c0edc4e4f2a74229309c62915db3
+
+PODFILE CHECKSUM: 0e04d33a4089ebda608739c912469642a22d67b3
+
+COCOAPODS: 1.9.1
